@@ -1,0 +1,44 @@
+{
+  "preguntas": [
+    {
+		"categoria": "Cultura"
+		"enunciado": "¿Cuál es la capital de Francia?",
+		"opciones": [
+			"Roma",
+			"París",
+			"Londres",
+			"Madrid"
+      	],
+		"respuesta_correcta": 1,
+      	"explicacion": "La capital de Francia es París, conocida también como la Ciudad de la Luz."
+    },
+    {
+      	"categoria": "Cultura"
+		"enunciado": "¿En qué año se llevó a cabo la Revolución Francesa?",
+      	"opciones": [
+        	"1789",
+        	"1812",
+        	"1836",
+        	"1793"
+      ],
+      "respuesta_correcta": 0,
+      "explicacion": "La Revolución Francesa tuvo lugar en el año 1789, marcando un hito importante en la historia de Francia y el mundo."
+    },
+    {
+      "enunciado": "¿Quién pintó la Mona Lisa?",
+      "opciones": [
+        "Pablo Picasso",
+        "Leonardo da Vinci",
+        "Vincent van Gogh",
+        "Frida Kahlo"
+      ],
+      "respuesta_correcta": 1,
+      "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci, uno de los artistas más destacados del Renacimiento italiano."
+    },
+	{
+	  "enunciado": "¿?"	
+	}  
+  	]
+	
+	
+}
